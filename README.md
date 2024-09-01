@@ -1,23 +1,31 @@
-# 👨‍💻 Hey there, I'm Ins44ne!
+# 🎨 Welcome to My GitHub!
 
-A passionate Frontend Developer from Minsk. I love to build beautiful and functional websites. I'm constantly learning and experimenting with new web technologies.
+Hi, I'm [Your Name] - a Frontend Developer in the making. I'm passionate about bringing ideas to life in the browser. When I'm not coding, you can find me learning about UI/UX design or exploring new web technologies.
 
-- 🌱 **Currently exploring:** Tailwind, Typescript and React patterns
--💡 **Fun Fact:** I'm also interested in digital art and animation!
+## 🧑‍💻 About Me
+- 🎓 **Education:** Self-taught, with a background in [Your Background]
+- 🌟 **Focus Areas:** Responsive Design, Accessibility, Modern JavaScript Frameworks
+- 🧩 **Hobbies:** Solving coding challenges, designing UI mockups
 
-## 🛠️ My Toolbox
-- **Languages:** HTML, CSS, JavaScript,
-- **Libraries & Frameworks:** React, Styled-Components, Bootstrap, 
-- **Design Tools:** Figma, Pixso, Photoshop
+## 🛠️ My Tech Stack
+- **Frontend:** 
+  - HTML5, CSS3, JavaScript (ES6+)
+  - React, Vue.js (learning)
+  - SASS, Tailwind CSS
+- **Tools:**
+  - Git & GitHub
+  - Figma
+  - VS Code
 
-### 🖥️ Featured Projects
+## 🚧 Projects I'm Proud Of
+- **[My Portfolio](https://github.com/yourusername/portfolio)**: A sleek and modern portfolio website.
+- **[Weather App](https://github.com/yourusername/weather-app)**: A weather forecasting app using API data.
+- **[Interactive Quiz](https://github.com/yourusername/interactive-quiz)**: A dynamic quiz application with real-time scoring.
 
-## 📊 GitHub Stats & Activity
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=ins44ne&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🎮 Fun Stuff
-![Snake animation](https://github.com/ins44ne/ins44ne/blob/output/github-contribution-grid-snake.svg)
-
-## 🔗 Let's Connect!
-- 💼 [E-mail](ins44ne91@gmail.com)
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [Twitter](https://twitter.com/yourusername)
+- [Portfolio](https://yourportfolio.com)
