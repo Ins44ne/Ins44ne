@@ -1,31 +1,28 @@
-# 🎨 Welcome to My GitHub!
+# 👋 Hello, I'm Ins44ne.
 
-Hi, I'm [Your Name] - a Frontend Developer in the making. I'm passionate about bringing ideas to life in the browser. When I'm not coding, you can find me learning about UI/UX design or exploring new web technologies.
+I'm a beginner Frontend Developer passionate about creating interactive and dynamic user interfaces. Currently learning Tailwind, React and improving my JavaScript skills.
 
-## 🧑‍💻 About Me
-- 🎓 **Education:** Self-taught, with a background in [Your Background]
-- 🌟 **Focus Areas:** Responsive Design, Accessibility, Modern JavaScript Frameworks
-- 🧩 **Hobbies:** Solving coding challenges, designing UI mockups
+- 🌱 **Currently Learning:** React, TypeScript, Tailwind
+- 📫 **How to reach me:** [ins44ne91@gmail.com](mailto:ins44ne91@gmail.com)
 
-## 🛠️ My Tech Stack
-- **Frontend:** 
-  - HTML5, CSS3, JavaScript (ES6+)
-  - React, Vue.js (learning)
-  - SASS, Tailwind CSS
-- **Tools:**
-  - Git & GitHub
-  - Figma
-  - VS Code
+## 🚀 Projects
+- **[Like a Flappy Game](https://github.com/Ins44ne/flappyGame)**: A desktop game like a "Flappy Bird".
+- **[BasketShoes multipage Site](https://github.com/Ins44ne/BasketShoes)**: A multipage site built with vanilla JavaScript.
+- **[Simple Weather App](https://github.com/Ins44ne/weather-micro-app)**: A simple weather app built with react and weather API.
+- **[GoCorona simple layout](https://github.com/Ins44ne/Sergeev_S/tree/main/Portfolio/GoCorona)**: An implementation of a simple website layout.
+- **[GrowFy simple layout](https://github.com/Ins44ne/Sergeev_S/tree/main/Portfolio/growfy)**: An implementation of a simple website layout.
 
-## 🚧 Projects I'm Proud Of
-- **[My Portfolio](https://github.com/yourusername/portfolio)**: A sleek and modern portfolio website.
-- **[Weather App](https://github.com/yourusername/weather-app)**: A weather forecasting app using API data.
-- **[Interactive Quiz](https://github.com/yourusername/interactive-quiz)**: A dynamic quiz application with real-time scoring.
+## 🛠️ Tools and Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 📚 Learning Now
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Portfolio](https://yourportfolio.com)
+## 📊 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ins44ne&show_icons=true&theme=radical)
