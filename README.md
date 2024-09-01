@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👨‍💻 Hey there, I'm Ins44ne!
 
-<!--
-**Ins44ne/Ins44ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Frontend Developer from Minsk. I love to build beautiful and functional websites. I'm constantly learning and experimenting with new web technologies.
 
-Here are some ideas to get you started:
+- 🌱 **Currently exploring:** Tailwind, Typescript and React patterns
+-💡 **Fun Fact:** I'm also interested in digital art and animation!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Toolbox
+- **Languages:** HTML, CSS, JavaScript,
+- **Libraries & Frameworks:** React, Styled-Components, Bootstrap, 
+- **Design Tools:** Figma, Pixso, Photoshop
+
+### 🖥️ Featured Projects
+
+## 📊 GitHub Stats & Activity
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ins44ne&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+
+### 🎮 Fun Stuff
+![Snake animation](https://github.com/ins44ne/ins44ne/blob/output/github-contribution-grid-snake.svg)
+
+## 🔗 Let's Connect!
+- 💼 [E-mail](ins44ne91@gmail.com)
