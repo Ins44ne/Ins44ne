@@ -11,6 +11,8 @@ I'm a beginner Frontend Developer passionate about creating interactive and dyna
 - **[Simple Weather App](https://github.com/Ins44ne/weather-micro-app)**: A simple weather app built with react and weather API.
 - **[GoCorona simple layout](https://github.com/Ins44ne/Sergeev_S/tree/main/Portfolio/GoCorona)**: An implementation of a simple website layout.
 - **[GrowFy simple layout](https://github.com/Ins44ne/Sergeev_S/tree/main/Portfolio/growfy)**: An implementation of a simple website layout.
+- **[GrowFy simple layout](https://github.com/Ins44ne/tailwind-react)**: An implementation of one-page layout with react & tailwind.
+- **[GrowFy simple layout](https://github.com/Ins44ne/simple-tg-bot)**: A simple telegram-bot without persistent connection to the server.
 
 ## 🛠️ Tools and Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
