@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ins44ne.
 
-I'm a beginner Frontend Developer passionate about creating interactive and dynamic user interfaces. Currently learning Tailwind, React and improving my JavaScript skills.
+I'm a beginner Frontend Developer. Currently learning Tailwind, React and improving my JavaScript skills.
 
 - 🌱 **Currently Learning:** React, TypeScript, Tailwind
 - 📫 **How to reach me:** [ins44ne91@gmail.com](mailto:ins44ne91@gmail.com)
